@@ -1,2 +1,2 @@
 # 3semBsec
-this file is demonstrate to b section 
+this file is to demonstrate b section 
